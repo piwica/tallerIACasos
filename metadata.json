@@ -1,0 +1,6 @@
+{
+  "name": "Caso San Joaquín: Protocolo de Evaluación HCE en Salud Mental",
+  "description": "Recurso pedagógico interactivo en formato cómic para estudiantes de Maestría en Informática en Salud. Caso Sanatorio San Joaquín: diseño y evaluación de protocolos de usabilidad, arquitectura y confidencialidad en psiquiatría.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
